@@ -3,3 +3,7 @@
         height: 500px;
         object-fit: cover;
     }
+    
+    .logo-footer{
+    width: 25%;
+}
